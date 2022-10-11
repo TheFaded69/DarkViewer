@@ -24,5 +24,7 @@ namespace DarkViewer.App
         {
             InitializeComponent();
         }
+
+        internal int some = 6; 
     }
 }
